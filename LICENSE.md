@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 MIT Licensefgfd
+=======
+MIT License a
+>>>>>>> branch_1
 
 Copyright (c) 2012 Airbnb
 
